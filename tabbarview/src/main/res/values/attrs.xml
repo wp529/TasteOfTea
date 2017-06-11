@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="pages">
+        <attr name="icon_normal" format="reference"/>
+        <attr name="icon_select" format="reference"/>
+        <attr name="text_color_normal" format="color"/>
+        <attr name="text_color_select" format="color"/>
+        <attr name="page" format="string"/>
+        <attr name="text" format="string"/>
+        <attr name="checked" format="boolean"/>
+    </declare-styleable>
+
+</resources>
